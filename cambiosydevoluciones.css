@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+    font-family: 'Oswald', sans-serif;
+}
+
+.fondo {
+    background: url(ARIAN-CON-CIRO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(62, 9, 92);
+    width: 200px;
+    font-family: 'Merriweather', serif;
+}
+
+h3 {
+    color: black;
+}
+
+h4 {
+    color: red;
+}
+
+h5 {
+    color: rgb(0, 0, 0);
+    margin: auto;
+    font-size: 1.99rem;
+}
+
+h3 a {
+    color:black;
+}
+
+h6 {
+    color: red
+}
+
+h5 a {
+    color:black
+}

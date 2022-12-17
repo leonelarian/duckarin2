@@ -1,0 +1,54 @@
+.fondo {
+    background: url(533c49d64ec3de6fd75b7cb032630712.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    border: 9px solid rgb(224, 109, 9);
+    background: rgba(25, 126, 5, 0.589);
+    color:rgb(4, 81, 116)
+}
+
+h4 {
+    border: 9px solid rgb(224, 109, 9);
+    background: rgba(15, 65, 105, 0.589);
+    margin: auto;
+    color:white
+}
+
+h5 {
+    color: rgb(109, 4, 4);
+}
+
+h6 {
+    color: royalblue;
+    background: rgba(7, 22, 0, 0.589);
+    color:white;
+    font-size: 1.99rem;
+}
+
+.imagen {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h2 {
+    color: black;
+}
+
+h2 a {
+    color: black;
+}
+
+h1 a {
+    color:white
+}
+
+h2 a {
+    color:red
+}
